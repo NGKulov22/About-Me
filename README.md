@@ -1,6 +1,6 @@
 <h1 align="left">Hi, My name is Nikolay Kulov 👋</h1>
 I am currently a student at <a style="text-decoration: none;" href="https://github.com/codingburgas">@Coding Burgas</a> , where I am studying programming.  
-I have a strong passion for learning new technologies and developing innovative solutions.  
+Now I am learning C++ and Pyhon. 
 In my free time, I enjoy watching different sports and going out with friends!  
 
 ### Languages
@@ -12,4 +12,4 @@ In my free time, I enjoy watching different sports and going out with friends!
 <code><img height="27" src="https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"></code>
 
 ### Details 
-- 📫 &nbsp; Get in touch with me: NGKulov22@codingburgas.bg
+- 📫 &nbsp; Feel free to contact with me: NGKulov22@codingburgas.bg
