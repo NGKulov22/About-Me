@@ -8,7 +8,7 @@ In my free time, I enjoy watching different sports and going out with friends!
 <code><img height="27" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"></code>
 
 ### Databases
-<code><img height="27" src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"></code>
+<code><img height="27" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MS SQL">
 <code><img height="27" src="https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"></code>
 
 ### Details 
