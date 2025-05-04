@@ -12,4 +12,4 @@ In my free time, I enjoy watching different sports and going out with friends!
 <code><img height="27" src="https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"></code>
 
 ### Details 
-- 📫 &nbsp; Feel free to contact with me: NGKulov22@codingburgas.bg
+- 📫 &nbsp; Feel free to contact me: NGKulov22@codingburgas.bg
